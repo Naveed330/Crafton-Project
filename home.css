@@ -118,9 +118,35 @@ nav .icon-burger .line {
 		opacity: 0;
 	}	
 }
-#container{
-	width: 1300px;
-	height: 400px;
-	border: 1px solid black;
-	margin-top: 150px;
+#input{
+    width: 300px;
+    height: 30px;
+}
+.main{
+    height: 400px;
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 150px;
+    display: flex;
+    margin-left: 200px;
+}
+.main1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    margin-top: 50px;
+    display: flex;
+    margin-left: 200px;
+}
+.pics{
+    width: 300px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
+.pics2{
+    width: 300px;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
 }
